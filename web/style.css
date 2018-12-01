@@ -1,0 +1,39 @@
+body {
+  background:#37474F
+  ;  
+  color:#fff;
+}
+.header{
+    text-align:center;
+    Color:#fff;
+}
+.search{
+    color:#7CB342;
+    z-index:-1;
+    padding-right:40%;
+}
+.header span{
+    color:#7CB342;
+}
+#check{
+    float:right;
+    background:#7CB342;
+    margin-top:-34px;
+}
+#dnld{
+    margin-top:100px;
+}
+#mt{
+    display:none;
+}
+#img{
+    text-align:center;
+    border:1px solid #7CB342;
+}
+.cp{
+    position:fixed;
+    bottom:3px;
+    opacity:0.4;
+    left:3px;
+    colour:#596971;
+}
