@@ -7,7 +7,7 @@ function read(e){
 for (var i=0; i<metas.length; i++) { 
 if (metas[i].getAttribute("property") == "og:image") { $("#img").attr("src",metas[i].getAttribute("content"));$(".container").css("height",580) ;}
 if (metas[i].getAttribute("property") == "og:title") { $("#title").html(metas[i].getAttribute("content"));}
-if (metas[i].getAttribute("property") == "og:video"||metas[i].getAttribute("property") == "og:image"){ $("#btnd").attr("href",metas[i].getAttribute("content")); $("#btnd").html("Download"); $("#check").html("Check for download"); $("#check").removeAttr("disabled");
+if (metas[i].getAttribute("property") == "og:video") { $("#btnd").attr("href",metas[i].getAttribute("content")); $("#btnd").html("Download"); $("#check").html("Check for download"); $("#check").removeAttr("disabled");
 $("#btnd").addClass("btn-success")
 $("#btnd").removeClass("btn-danger")
 break;
