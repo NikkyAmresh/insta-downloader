@@ -20,6 +20,11 @@
   });
 
 </script>
+<script async custom-element="amp-auto-ads"
+
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+
+</script>
 <script src="script.js"></script>
     </head>
     <body>
@@ -33,7 +38,11 @@
         <h4 id="title"></h4><br>
         <center>
         <img width="90%" src="" id="img"><br>
-        </center>
+        </center><amp-auto-ads type="adsense"
+
+              data-ad-client="ca-pub-9112249406283240">
+
+</amp-auto-ads>
         </form>
              <span class="cp">copyright &copy; Nikky Amresh </span>
         </div>
