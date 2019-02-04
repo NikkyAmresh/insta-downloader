@@ -38,7 +38,27 @@
         <h4 id="title"></h4><br>
         <center>
         <img width="90%" src="" id="img"><br>
-        </center><amp-auto-ads type="adsense"
+        </center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<!-- insta downloder -->
+
+<ins class="adsbygoogle"
+
+     style="display:block"
+
+     data-ad-client="ca-pub-9112249406283240"
+
+     data-ad-slot="7350893099"
+
+     data-ad-format="auto"
+
+     data-full-width-responsive="true"></ins>
+
+<script>
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+</script><amp-auto-ads type="adsense"
 
               data-ad-client="ca-pub-9112249406283240">
 
