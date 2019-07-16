@@ -64,7 +64,7 @@
 
 </amp-auto-ads>
         </form>
-             <span class="cp">copyright &copy; Nikky Amresh </span>
+             <span class="cp">copyright &copy; Emo </span>
         </div>
     </body>
 </html>
